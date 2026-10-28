@@ -1,0 +1,1 @@
+# OOP-C-Practical-6-INHERITANCE
